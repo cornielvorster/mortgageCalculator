@@ -6,8 +6,8 @@ A Mortgage Calculator to determine monthly repayments, total payment, total intr
 
 * Project Description
 * Installation
-* Usage: #usage
-* License: #license
+* Usage
+* License
 
 **Project Description**
 

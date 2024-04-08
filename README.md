@@ -11,7 +11,9 @@ A Mortgage Calculator to determine monthly repayments, total payment, total intr
 * License: #license
 
 **Project Description**
+
 This was a college project but was built further than the guidelines. It has basic GUI using Windows Forms for input and output. A user inputs the loan amount, interest rate and the loan term (years). The system uses a class called MortgagaCalculator to manipulate the input. The systems transforms the input data to an output. It displays the monthly repayment amount, total interest over the lifetime of the loan and the same with total amount. The system also generates an Amoraztion Schedule which displays the payment number, principal amount, interest, total payment and the balance of the loan.
+
 The project has error handling to ensure that values stay within accepatable ranges. It also uses string maniuplation  
 
 [A detailed description of your project, what it does, and the problem it solves. Include any relevant technologies used.]

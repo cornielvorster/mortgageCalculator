@@ -20,34 +20,36 @@ The project has error handling to ensure that values stay within accepatable ran
 
 This C# Windows Form application requires the following prerequisites:
 
-    Microsoft .NET Framework: https://dotnet.microsoft.com/en-us/download/dotnet-framework (Specify the required version here).
-    Visual Studio (Optional): While not strictly necessary, having Visual Studio installed (any version that supports your targeted .NET Framework version) can be helpful for browsing the source code or making modifications. You can download Visual Studio Community (free version) from https://visualstudio.microsoft.com/downloads/.
+Microsoft .NET Framework: 
+
+    https://dotnet.microsoft.com/en-us/download/dotnet-framework (Specify the required version here).
+
+Visual Studio (Optional): While not strictly necessary, having Visual Studio installed (any version that supports your targeted .NET Framework version) can be helpful for browsing the source code or making modifications. You can download Visual Studio Community (free version) from https://visualstudio.microsoft.com/downloads/.
 
 Once you have the prerequisites, follow these steps to install the application:
 
-    Clone or Download the Repository:
+Clone or Download the Repository:
 
-        If using Git, clone the repository using the following command in your terminal:
-        Bash
+If using Git, clone the repository using the following command in your terminal:
+        
+Bash
 
         git clone https://github.com/cornielvorster/mortgageCalculator.git
+Use code with caution.
+Alternatively, you can download the ZIP file of the repository from GitHub and extract it to a desired location.
 
-        Use code with caution.
+Build the Solution (if using Git):
+Open the solution file (.sln) in Visual Studio or another compatible IDE.
+Build the solution (usually by navigating to Build -> Rebuild Solution). This will generate the executable file for your application.
 
-        Alternatively, you can download the ZIP file of the repository from GitHub and extract it to a desired location.
-
-    Build the Solution (if using Git):
-        Open the solution file (.sln) in Visual Studio or another compatible IDE.
-        Build the solution (usually by navigating to Build -> Rebuild Solution). This will generate the executable file for your application.
-
-    Run the Application:
-        Locate the executable file (usually named after your project and having a .exe extension). It's often placed in the bin or Debug folder within the project directory.
-        Double-click the executable file to launch the application.
+Run the Application:
+Locate the executable file (usually named after your project and having a .exe extension). It's often placed in the bin or Debug folder within the project directory.
+Double-click the executable file to launch the application.
 
 Additional Notes:
 
-    If your application has any specific dependencies beyond the .NET Framework, mention them here and provide instructions on how to install them.
-    Consider including a screenshot of your application's main window to give users a visual reference.
+If your application has any specific dependencies beyond the .NET Framework, mention them here and provide instructions on how to install them.
+Consider including a screenshot of your application's main window to give users a visual reference.
 
 
 **Usage**

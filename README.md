@@ -7,7 +7,6 @@ A Mortgage Calculator to determine monthly repayments, total payment, total intr
 * Project Description
 * Installation
 * Usage: #usage
-* Contributing: #contributing
 * License: #license
 
 **Project Description**
@@ -52,11 +51,9 @@ Consider including a screenshot of your application's main window to give users 
 
 **Usage**
 
-[Explain how to use your project after installation. Include examples or screenshots if helpful.]
-
-**Contributing**
-
-[If you welcome contributions, outline the guidelines and process for others to contribute to your project. Mention any code style guides or testing frameworks.]
+1. Enter relveant data into the input side of the application
+2. Click on the calculate button get the output values
+3. Press Clear to clear all values.
 
 **License**
 

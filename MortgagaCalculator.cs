@@ -26,7 +26,7 @@ namespace mortgageCalculator
             int numberOfPayments = loanTermYears * 12; // Convert loan term from years to months
             double monthlyPayment = loanAmount * monthlyInterestRate * Math.Pow(1 + monthlyInterestRate, numberOfPayments) / (Math.Pow(1 + monthlyInterestRate, numberOfPayments) - 1);
 
-            double totalIntrestPaid = (monthlyPayment*numberOfPayments) - loanAmount;
+            double totalIntrestPaid = (monthlyPayment*numberOfPayments) - loanAmount +1;
 
             return totalIntrestPaid;
         }
